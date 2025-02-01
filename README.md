@@ -90,7 +90,7 @@ pytest
 ---
 
 ## ✅ Submission Steps
-1. **Push all changes to GitHub**
+1. **Pushing  all changes to GitHub**
    ```bash
    git add .
    git commit -m "chore: finalize project for submission"
