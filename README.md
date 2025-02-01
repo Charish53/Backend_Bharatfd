@@ -97,7 +97,6 @@ pytest
    git push origin main
    ```
 
-2. **Submit the GitHub repository link**
 
 ---
 
