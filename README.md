@@ -89,5 +89,17 @@ pytest
 
 ---
 
+## ✅ Submission Steps
+1. **Push all changes to GitHub**
+   ```bash
+   git add .
+   git commit -m "chore: finalize project for submission"
+   git push origin main
+   ```
+
+2. **Submit the GitHub repository link**
+
+---
+
 ## 📝 License
 MIT License
